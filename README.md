@@ -28,7 +28,7 @@ A simple and intuitive **task and event planner** web application built using **
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/planner-website.git
+   git clone https://github.com/Freya135/planner.git
    cd planner-website
 📝 Example Usage
 Log in with a user account
