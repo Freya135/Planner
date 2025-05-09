@@ -5,8 +5,8 @@ A simple and intuitive **task and event planner** web application built using **
 ## Demo Images
 Below are screenshots of the website to give an overview of its appearance and functionality.
 <div style="display: flex; justify-content: space-between;">
-  <img src="![image](https://github.com/user-attachments/assets/d0871ac9-5b4f-427c-a38f-abc388f7cd02)" width="49%" />
-  <img src="![image](https://github.com/user-attachments/assets/99cf7012-f6d3-498b-bef5-c63aa4c6b21b)" width="49%" />
+  <img src="https://github.com/user-attachments/assets/ce579077-6c96-41eb-a7fa-07eebe144133" width="49%" />
+  <img src="https://github.com/user-attachments/assets/5ede08fa-24cd-4eb7-ab59-c97cf03c3697" width="49%" />
 </div>
 
 ## 🔧 Features
